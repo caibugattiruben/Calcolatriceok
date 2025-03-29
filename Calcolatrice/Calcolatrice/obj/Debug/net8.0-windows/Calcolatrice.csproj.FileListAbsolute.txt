@@ -1,0 +1,16 @@
+C:\Users\caibugatti.ruben\Desktop\Calcolatrice\Calcolatrice\Calcolatrice\bin\Debug\net8.0-windows\Calcolatrice.exe
+C:\Users\caibugatti.ruben\Desktop\Calcolatrice\Calcolatrice\Calcolatrice\bin\Debug\net8.0-windows\Calcolatrice.deps.json
+C:\Users\caibugatti.ruben\Desktop\Calcolatrice\Calcolatrice\Calcolatrice\bin\Debug\net8.0-windows\Calcolatrice.runtimeconfig.json
+C:\Users\caibugatti.ruben\Desktop\Calcolatrice\Calcolatrice\Calcolatrice\bin\Debug\net8.0-windows\Calcolatrice.dll
+C:\Users\caibugatti.ruben\Desktop\Calcolatrice\Calcolatrice\Calcolatrice\bin\Debug\net8.0-windows\Calcolatrice.pdb
+C:\Users\caibugatti.ruben\Desktop\Calcolatrice\Calcolatrice\Calcolatrice\obj\Debug\net8.0-windows\Calcolatrice.Form1.resources
+C:\Users\caibugatti.ruben\Desktop\Calcolatrice\Calcolatrice\Calcolatrice\obj\Debug\net8.0-windows\Calcolatrice.csproj.GenerateResource.cache
+C:\Users\caibugatti.ruben\Desktop\Calcolatrice\Calcolatrice\Calcolatrice\obj\Debug\net8.0-windows\Calcolatrice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caibugatti.ruben\Desktop\Calcolatrice\Calcolatrice\Calcolatrice\obj\Debug\net8.0-windows\Calcolatrice.AssemblyInfoInputs.cache
+C:\Users\caibugatti.ruben\Desktop\Calcolatrice\Calcolatrice\Calcolatrice\obj\Debug\net8.0-windows\Calcolatrice.AssemblyInfo.cs
+C:\Users\caibugatti.ruben\Desktop\Calcolatrice\Calcolatrice\Calcolatrice\obj\Debug\net8.0-windows\Calcolatrice.csproj.CoreCompileInputs.cache
+C:\Users\caibugatti.ruben\Desktop\Calcolatrice\Calcolatrice\Calcolatrice\obj\Debug\net8.0-windows\Calcolatrice.dll
+C:\Users\caibugatti.ruben\Desktop\Calcolatrice\Calcolatrice\Calcolatrice\obj\Debug\net8.0-windows\refint\Calcolatrice.dll
+C:\Users\caibugatti.ruben\Desktop\Calcolatrice\Calcolatrice\Calcolatrice\obj\Debug\net8.0-windows\Calcolatrice.pdb
+C:\Users\caibugatti.ruben\Desktop\Calcolatrice\Calcolatrice\Calcolatrice\obj\Debug\net8.0-windows\Calcolatrice.genruntimeconfig.cache
+C:\Users\caibugatti.ruben\Desktop\Calcolatrice\Calcolatrice\Calcolatrice\obj\Debug\net8.0-windows\ref\Calcolatrice.dll
